@@ -1,0 +1,111 @@
+,Unnamed: 0,file_name,ICM,state,TE,ZP
+0,22,20_3AA.jpg,A,0,A,3
+1,80,IMAGE (36).jpg,A,0,A,4
+2,105,IMAGE (61).jpg,B,0,C,3
+3,49,IMAGE (5).jpg,C,0,C,3
+4,83,IMAGE (39).jpg,B,0,B,3
+5,62,IMAGE (18).jpg,C,0,B,3
+6,8,6_4AA.jpg,A,0,A,4
+7,73,IMAGE (29).jpg,A,0,B,3
+8,45,IMAGE (1).jpg,A,0,A,4
+9,3,3_3AA.jpg,A,0,A,3
+10,23,21_4BB.jpeg,B,0,B,4
+11,88,IMAGE (44).jpg,A,0,A,4
+12,42,40_3CC.jpg,C,0,C,3
+13,15,14_4AA(L).jpg,A,0,A,4
+14,44,42_4BC.jpg,B,0,C,4
+15,31,29_3CC.jpeg,C,0,C,3
+16,52,IMAGE (8).jpg,A,0,B,4
+17,33,31_3CB.jpeg,C,0,B,3
+18,78,IMAGE (34).jpg,A,0,A,3
+19,57,IMAGE (13).jpg,A,0,A,4
+20,60,IMAGE (16).jpg,B,0,A,4
+21,26,24_3BA.jpeg,B,0,A,3
+22,50,IMAGE (6).jpg,A,0,A,3
+23,109,IMAGE (65).jpg,A,0,A,4
+24,7,7_3AA.jpg,A,0,A,3
+25,84,IMAGE (40).jpg,A,0,A,3
+26,64,IMAGE (20).jpg,A,0,C,3
+27,40,38_3CB.jpg,C,0,B,3
+28,37,35_3AB.jpg,A,0,B,3
+29,47,IMAGE (3).jpg,A,0,A,2
+30,91,IMAGE (47).jpg,B,0,B,3
+31,76,IMAGE (32).jpg,B,0,A,3
+32,67,IMAGE (23).jpg,A,0,A,3
+33,25,23_3CA.jpeg,C,0,A,3
+34,70,IMAGE (26).jpg,C,0,C,3
+35,104,IMAGE (60).jpg,A,0,B,3
+36,53,IMAGE (9).jpg,A,0,A,4
+37,99,IMAGE (55).jpg,A,0,A,3
+38,51,IMAGE (7).jpg,A,0,A,4
+39,103,IMAGE (59).jpg,C,0,B,3
+40,27,25_3BA.jpeg,B,0,A,3
+41,92,IMAGE (48).jpg,C,0,B,3
+42,28,26_4CB.jpeg,C,0,B,4
+43,87,IMAGE (43).jpg,A,0,A,3
+44,17,15_4AB.jpg,A,0,B,4
+45,107,IMAGE (63).jpg,A,0,B,3
+46,11,10_3AA.jpg,A,0,A,3
+47,71,IMAGE (27).jpg,A,0,A,4
+48,69,IMAGE (25).jpg,A,0,A,3
+49,59,IMAGE (15).jpg,A,0,A,3
+50,79,IMAGE (35).jpg,B,0,A,3
+51,41,39_3CB.jpg,C,0,B,3
+52,95,IMAGE (51).jpg,A,0,A,4
+53,56,IMAGE (12).jpg,A,0,A,3
+54,74,IMAGE (30).jpg,A,0,A,3
+55,35,33_3AC.PNG,A,0,C,3
+56,101,IMAGE (57).jpg,A,0,A,3
+57,58,IMAGE (14).jpg,B,0,A,4
+58,96,IMAGE (52).jpg,A,0,A,3
+59,65,IMAGE (21).jpg,A,0,A,3
+60,16,14_4AA(R).jpg,A,0,A,4
+61,63,IMAGE (19).jpg,B,0,B,4
+62,97,IMAGE (53).jpg,A,0,A,3
+63,10,9_3AB.jpg,A,0,B,3
+64,19,17_3AA.jpg,A,0,A,3
+65,9,8_2AA.jpg,A,0,A,2
+66,13,12_4AA.jpg,A,0,A,4
+67,48,IMAGE (4).jpg,A,0,A,3
+68,6,5_4AA(R).jpg,A,0,A,4
+69,38,36_3BC.jpg,B,0,C,3
+70,93,IMAGE (49).jpg,C,0,B,3
+71,0,1_3AA.jpg,A,0,A,3
+72,72,IMAGE (28).jpg,A,0,A,3
+73,39,37_3BC.jpg,B,0,C,3
+74,43,41_4AC.jpg,A,0,C,4
+75,85,IMAGE (41).jpg,A,0,B,3
+76,5,5_3AA(L).jpg,A,0,A,3
+77,12,11_4AA.jpg,A,0,A,4
+78,81,IMAGE (37).jpg,A,0,A,3
+79,68,IMAGE (24).jpg,A,0,A,4
+80,46,IMAGE (2).jpg,A,0,A,3
+81,4,4_3AA.jpg,A,0,A,2
+82,18,16_4AB.jpg,A,0,B,4
+83,86,IMAGE (42).jpg,B,0,A,3
+84,108,IMAGE (64).jpg,A,0,B,3
+85,106,IMAGE (62).jpg,B,0,C,4
+86,61,IMAGE (17).jpg,A,0,B,3
+87,30,28_4CC.jpeg,C,0,C,4
+88,55,IMAGE (11).jpg,A,0,A,3
+89,98,IMAGE (54).jpg,A,0,B,2
+90,34,32_3CC.jpeg,C,0,C,3
+91,24,22_4BB.jpeg,B,0,B,4
+92,54,IMAGE (10).jpg,A,0,A,3
+93,89,IMAGE (45).jpg,A,1,A,4
+94,1,2_2AA(L).jpg,A,1,A,2
+95,36,34_3CC.PNG,C,1,C,3
+96,102,IMAGE (58).jpg,A,1,A,2
+97,82,IMAGE (38).jpg,B,1,B,3
+98,21,19_3AA.jpg,A,1,A,3
+99,29,27_4CB.jpeg,C,1,B,4
+100,94,IMAGE (50).jpg,C,1,C,3
+101,66,IMAGE (22).jpg,A,1,B,4
+102,20,18_4AA.jpg,A,1,A,4
+103,75,IMAGE (31).jpg,A,1,A,3
+104,90,IMAGE (46).jpg,B,1,A,3
+105,77,IMAGE (33).jpg,A,1,A,3
+106,32,30_4AA.jpeg,A,1,A,4
+107,2,2_4AA(R).jpg,A,1,A,4
+108,14,13_2AA.jpg,A,1,A,2
+109,100,IMAGE (56).jpg,B,1,A,3
